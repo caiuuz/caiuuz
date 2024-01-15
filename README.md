@@ -1,8 +1,8 @@
 # Caio Ramos
 <div>
-  <a href="https://instagram.com/caiuuz" target="_blank"><img src="./img/instagram.png" width="40" height="40"></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="./img/linkedin.png" width="37" height="37"></a>
-  <a href = "mailto:caioramosart@gmail.com"><img src="./img/gmail.png" width="40" height="40"></a>
+  <a href="https://instagram.com/caiuuz" target="_blank"><img src="./img/instagram.png" width="40" height="40" hspace="5"></a>
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="./img/linkedin.png" width="37" height="37" hspace="5"></a>
+  <a href = "mailto:caioramosart@gmail.com"><img src="./img/gmail.png" width="40" height="40" hspace="5"></a>
 </div>
 
 &nbsp;
@@ -13,7 +13,7 @@ Atualmente moro em SP-Capital, tenho 27 anos e estou em processo de mudar de ár
 
 # 📖 Estudando
 <div>
-  <img src="./img/html5.png" width="40" height="40" hspace="5">
+  <img src="./img/html5.png" width="40" height="40" hspace="5" vspacce="8">
   <img src="./img/css3.png" width="40" height="40" hspace="5">
   <img src="./img/js.png" width="40" height="40" hspace="5">
   <img src="./img/bootstrap.png" width="40" height="40" hspace="5">
