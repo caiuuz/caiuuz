@@ -13,7 +13,7 @@ Atualmente moro em SP-Capital, tenho 27 anos e estou em processo de mudar de ár
 
 # 📖 Estudando
 <div>
-  <img src="./img/html5.png" width="40" height="40">
+  <img src="./img/html5.png" width="40" height="40" hspace="2">
   <img src="./img/css3.png" width="40" height="40">
   <img src="./img/js.png" width="40" height="40">
   <img src="./img/bootstrap.png" width="40" height="40">
