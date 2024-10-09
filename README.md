@@ -1,6 +1,6 @@
 # Caio Ramos
 <div>
-  <a href="https://instagram.com/caiuuz" target="_blank"><img src="./img/instagram.png" width="40" height="40" hspace="5"></a>
+  <a href="https://instagram.com/ocaiiuu" target="_blank"><img src="./img/instagram.png" width="40" height="40" hspace="5"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="./img/linkedin.png" width="37" height="37" hspace="5"></a>
   <a href = "mailto:caioramosart@gmail.com"><img src="./img/gmail.png" width="40" height="40" hspace="5"></a>
 </div>
